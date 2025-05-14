@@ -1,0 +1,26 @@
+body{
+    background-image: url(../img/1.png);
+            background-position: center center;
+            background-repeat: cover;
+            background-attachment: fixed;
+            background-size: 100vw;
+            font-family: 'Times New Roman', Times, serif;
+            
+           
+        }
+    
+
+.style1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 7vw;
+}
+
+@keyframes cambiar{
+   
+                 
+
+    
+
+}
+    
