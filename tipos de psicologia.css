@@ -1,0 +1,32 @@
+body{
+    background-image: url(./img/1.png);
+            background-position: center center;
+            background-repeat: cover;
+            background-attachment: fixed;
+            background-size: 100vw;
+            font-family: 'Times New Roman', Times, serif;
+            
+           
+        }
+    
+
+.style1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 7vw;
+}
+
+.style3{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: 100%;
+    color: rgb(60, 112, 117);
+    margin-top: -3vw;
+}
+   
+                 
+
+    
+
+
+
